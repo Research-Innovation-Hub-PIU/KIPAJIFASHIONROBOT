@@ -1,0 +1,27 @@
+syntax = "v1"
+
+info(
+    title: "KIPAJIFASHIONROBOT"
+    desc: "type desc here"
+    author: "Patience Wangui"
+    email: "type email here"
+    version: "type version here"
+)
+
+
+type request {
+    // TODO: add members here and delete this comment
+}
+
+type response {
+    // TODO: add members here and delete this comment
+}
+
+@server(
+    jwt: Auth
+    group: template
+)
+service template {
+    @handler handlerName // TODO: replace handler name and delete this comment
+    get /users/id/:userId (request) returns (response)
+}
