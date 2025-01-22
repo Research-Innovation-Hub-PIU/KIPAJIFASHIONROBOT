@@ -1,7 +1,3 @@
-Here’s an updated `CODE_OF_CONDUCT.md` with image suggestions to enhance visual engagement.
-
----
-
 # Contributor Code of Conduct
 
 ![Community Banner](images/community_banner.png)
