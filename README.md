@@ -1,4 +1,3 @@
-Here’s an updated `README.md` for the **KIPAJI-FASHION-ROBOT** project with suggested images for a more visually engaging presentation.
 The following is a demo link in youtube https://youtube.com/shorts/2ZVjLWZtWt8
 
 ---
