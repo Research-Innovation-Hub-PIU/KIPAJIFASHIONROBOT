@@ -60,4 +60,3 @@ By participating in the **KIPAJI-FASHION-ROBOT** project, you agree to abide by 
 
 ---
 
-Add each image to the `/images/` folder in your repository and update the paths in the `CODE_OF_CONDUCT.md` file as needed. These visual elements can enhance readability and emphasize key values within the Code of Conduct.
