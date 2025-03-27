@@ -66,6 +66,7 @@ KIPAJI-FASHION-ROBOT uses a combination of neural network architectures, includi
 - **Recommendation Model:** Suggests styles based on user input and current fashion trends.
 
 ![Model Architecture Diagram](images/model_architecture_diagram.png)
+[KIPAJI FASHION INTELLIGENT SOTWARE](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtube.com/shorts/2ZVjLWZtWt8)
 
 ## 🤝 Contributing
 
