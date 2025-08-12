@@ -1,6 +1,5 @@
 The following is a demo link in youtube https://youtube.com/shorts/2ZVjLWZtWt8
 
----
 
 # KIPAJI-FASHION-ROBOT
 
